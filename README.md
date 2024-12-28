@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Android native , flutter or anything related to mobile development.
+- 💬 Ask me about my experience with Android native.
 
 
 ### Connect with Me :
